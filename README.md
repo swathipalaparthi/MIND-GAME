@@ -1,6 +1,6 @@
-
 MIND GAME
-This game has three levels
-First round is Ascii level-Finding ascii values
-Second round is Logical level-Finding answers by thinking in a logical level
-Third round is Analytical level-Finding answers by analysing the questions.
+To run this game on your system install Turbo C on your system from the following url
+https://www.javatpoint.com/how-to-install-c
+Command to compile the code Alt + F9
+Press Ctrl + F9 to execute your code in TurboC
+When everything is set, start playing the game
